@@ -1,0 +1,4 @@
+data/tiny_nerf_data.npz
+optimized_gaussians.pt
+__pycache__/
+.vscode/
